@@ -9,6 +9,7 @@ namespace Birthday
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("More drawing supplies.");
             Console.ReadKey();
         }
     }
