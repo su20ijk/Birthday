@@ -14,6 +14,8 @@ namespace Birthday
             Console.WriteLine("nobody can not say yeet");
             Console.WriteLine("More drawing supplies.");
             Console.WriteLine("A PONYEEEEEEEEEEEEEEEEEEEEEEEEEEEeT");
+
+            Console.WriteLine("yay");
             Console.ReadKey();
         }
     }
