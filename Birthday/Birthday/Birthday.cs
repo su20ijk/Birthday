@@ -10,6 +10,7 @@ namespace Birthday
         public static void Main(string[] args)
         {
             Console.WriteLine("fOR GiTKRakEn To WOrK");
+            Console.WriteLine("nobody can not say yeet");
             Console.ReadKey();
         }
     }
