@@ -9,6 +9,7 @@ namespace Birthday
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("fOR GiTKRakEn To WOrK");
             Console.ReadKey();
         }
     }
