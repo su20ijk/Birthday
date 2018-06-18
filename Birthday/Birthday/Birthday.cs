@@ -9,6 +9,7 @@ namespace Birthday
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("nobody can not say yeet");
             Console.ReadKey();
         }
     }
